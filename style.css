@@ -1,0 +1,25 @@
+.box1{
+    background-color: rgb(255, 0, 234);
+    height: 200px;
+    width: 300px;
+}
+
+
+.box2{
+    background-color: rgb(0, 255, 17);
+    height: 200px;
+    width: 300px;
+}
+#text{
+    font-size: 30px;
+    color: rgb(1, 10, 247);
+    text-align: center ;
+}
+#cool{
+    font-size: 30px;
+    color: rgb(1, 10, 247);
+    text-align: center ;
+}
+body{
+    background-color: cyan;
+}
